@@ -4,3 +4,4 @@ Italics
   *italics wording*
 Link
 [Facebook](https://facebook.com)
+no smiley
